@@ -1,0 +1,47 @@
+.carousel-item{
+    background-color: #FCEAE8;
+}
+.cat-1,.cat-2,.cat-3{
+    padding: 10px 23px;
+    color: white;
+    border-radius: 10px;
+}
+.cat-1{
+    background-color:#FFA500;
+}
+.cat-2{
+    background-color: #DA70D6;
+}
+.cat-3{
+    background-color: #0000FF;
+}
+
+    
+.slider-btn {
+    
+    background-image: linear-gradient(to right, #1A2980 0%, #26D0CE  51%, #1A2980  100%)
+    
+    }
+
+.slider-btn {
+       margin-bottom:15px ;
+       padding: 15px 45px;
+       text-align: center;
+       text-transform: uppercase;
+       transition: 0.5s;
+       background-size: 200% auto;
+       color: white;            
+       box-shadow: 0 0 20px #eee;
+       border-radius: 10px;
+       display: block;
+     }
+
+.slider-btn:hover {
+       background-position: right center; /* change the direction of the change here */
+       color: #fff;
+       text-decoration: none;
+     }
+/* .backpacks{
+     height: 615px;
+ }     */
+    
